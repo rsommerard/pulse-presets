@@ -4,4 +4,4 @@ This is the Boosted and Perfect EQ from [here](http://www.ziyadnazem.com/post/95
 
 ## Installation
 
-Simply put presets file in the pulse audio config folder: `~/.config/pulse/presets/`
+Simply put the preset files in the pulse audio config folder: `~/.config/pulse/presets/`
